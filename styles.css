@@ -71,6 +71,7 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    gap: 15px;
     border-radius: 5px;
     background-color: var(--Light-Grayish-Magenta);
     height: 38px;
