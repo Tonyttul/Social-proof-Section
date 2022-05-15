@@ -248,9 +248,7 @@ span {
     }
 
     .side {
-        margin: 0 auto;
-        /* background-color: aqua; */
-        margin-top: -30px;
+        background-color: aqua;
     }
 
     .row1,
@@ -360,7 +358,6 @@ span {
     .side {
         margin: 0 auto;
         /* background-color: aqua; */
-        margin-top: -30px;
     }
 
     .row1,
