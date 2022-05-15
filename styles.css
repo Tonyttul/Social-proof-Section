@@ -26,6 +26,7 @@ html {
 .container {
     display: grid;
     place-items: center;
+    margin-top: 35px;
     /* background-color: aqua; */
     /* min-width: 1050px; */
 }
@@ -214,10 +215,6 @@ span {
         background-size: auto, auto;
         background-repeat: no-repeat;
         background-position: top left, right bottom;
-    }
-
-    .container {
-        margin: 0 0 0 0;
     }
 
     .wrapper-1 {
